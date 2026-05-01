@@ -50,10 +50,10 @@ A retro-style Bubble Shooter game built entirely in **x86 Assembly (NASM)**, run
 
 ```bash
 # Assemble
-nasm -f bin b11.asm -o b11.com
+nasm bubbleShooter.asm -o bubbleShooter.com
 
 # Run in DOSBox
-dosbox b11.com
+b11.com
 ```
 
 ---
