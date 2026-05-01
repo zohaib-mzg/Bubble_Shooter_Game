@@ -72,4 +72,3 @@ b11.com
 ## 👨‍💻 Author
 
 **Muhammad Zohaib**
-Roll No: 24L-2530 | BDS-3B
